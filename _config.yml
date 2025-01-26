@@ -1,8 +1,17 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: "Data-cloud2.0"
+description: "The best way to learn programming is to write programs."
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# Navigation links
+nav_order: 1
+nav:
+  - title: "About"
+    url: "/about"
+  - title: "Notes"
+    url: "/notes"
+  - title: "Projects"
+    url: "/projects"
+  - title: "Learning Objectives"
+    url: "/learning-objectives"
+  - title: "Roadmap"
+    url: "/roadmap"
