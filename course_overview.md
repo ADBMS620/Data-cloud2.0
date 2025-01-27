@@ -1,21 +1,18 @@
 ---
 layout: default
-title: Course Overview
-nav_order: 3
+title: "Course Overview"
+nav_order: 2
 ---
 
 # Course Overview
 
-The course is structured to blend theoretical concepts with practical applications. 
+Learn about the foundational topics of Data Structures and Algorithms (DSA), and gain practical insights into real-world problem-solving using computation.
 
-| **Assessments**               | **Weightage** |
-| ----------------------------- | ------------- |
-| Final Exam                    | 30%           |
-| Mid-Term Exam                 | 25%           |
-| 1D Projects                   | 15%           |
-| 2D Project                    | 10%           |
-| Cohort Sessions and Homework  | 10%           |
-| Pre-Class Activities          | 8%            |
-| Participation                 | 2%            |
+## Topics Covered
 
-[Explore More Details](/learning_objectives)
+1. Introduction to DSA
+2. Data Structures: Arrays, Linked Lists, Trees, Graphs
+3. Algorithms: Sorting, Searching, Graph Algorithms
+4. Advanced Topics: Machine Learning Basics, State Machines
+
+[← Back to Home](/)
