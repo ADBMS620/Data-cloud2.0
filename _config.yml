@@ -2,16 +2,15 @@ title: "Data-cloud2.0"
 description: "The best way to learn programming is to write programs."
 theme: just-the-docs
 
-# Navigation links
-nav_order: 1
-nav:
-  - title: "About"
-    url: "/about"
-  - title: "Notes"
-    url: "/notes"
-  - title: "Projects"
-    url: "/projects"
-  - title: "Learning Objectives"
-    url: "/learning-objectives"
-  - title: "Roadmap"
-    url: "/roadmap"
+# Navigation settings
+just_the_docs:
+  search_enabled: true
+  navigation:
+    - title: "Home"
+      url: "/"
+    - title: "Course Overview"
+      url: "/course_overview"
+    - title: "Learning Objectives"
+      url: "/learning_objectives"
+    - title: "Roadmap"
+      url: "/roadmap"
